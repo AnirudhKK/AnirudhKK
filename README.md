@@ -20,10 +20,12 @@
 <img align="right" width="1000px" alt="GIF" src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" />
 
 **Languages and Tools:** 
+<br />
+<br />
 <code><img height="50" src="https://image.flaticon.com/icons/svg/226/226777.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/919/919827.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/919/919826.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code><br />
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/528/528261.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
