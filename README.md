@@ -32,7 +32,9 @@
 <code><img height="50" src="https://image.flaticon.com/icons/svg/919/919852.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/919/919825.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/3234/3234053.svg"></code>
+[![Anirudh Kumar Kushwaha's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/anirudhkk)
 ![AnirudhKK's github stats](https://github-readme-stats.vercel.app/api?username=anirudhkk&show_icons=true&hide_border=true)
+
 <br />
 <br />
 ⭐️ From [AnirudhKK](https://github.com/anirudhkk)
