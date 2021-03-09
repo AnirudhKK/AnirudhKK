@@ -16,7 +16,7 @@
 **Wanna get in touch?**
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: Anything is possible;
-- 📫 How to reach me: iamanirudh.ak@gmail.com;
+- 📫 How to reach me: contact@humpty.tech;
 <img align="right" width="1000px" alt="GIF" src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" />
 
 **Languages and Tools:** 
