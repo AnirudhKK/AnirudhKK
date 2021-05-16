@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=AnirudhKK&label=PROFILE+VIEWS&style=flat)
 ### Hi there 👋
 
 <a href="https://twitter.com/AnirudhKumarKu5">
