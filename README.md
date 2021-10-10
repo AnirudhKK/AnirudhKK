@@ -12,13 +12,12 @@
 <h1>Hello! My name is Anirudh Kumar Kushwaha and I'm from Varanasi! I love to code and solve problems :) </h1>
 <h3>Currently I'm in 3rd year of B. Tech CSE from GLA University, Mathura</h3>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
+<img alt="GIF" src="https://camo.githubusercontent.com/d87412330e179c453793251de9ef574f11d2c570510e949304f1a767ad891b6c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f456a4857706956494f475854356c396d2f67697068792e676966" />
 
 **Wanna get in touch?**
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: Anything is possible;
 - 📫 How to reach me: mail@anirudh.one;
-<img align="right" width="1000px" alt="GIF" src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" />
 
 **Languages and Tools:** 
 <br />
