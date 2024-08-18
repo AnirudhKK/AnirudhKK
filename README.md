@@ -9,8 +9,8 @@
   <img align="left" alt="Victor's instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
   <br />
   <br />
-<h1>Hello! My name is Anirudh Kumar Kushwaha and I'm from Varanasi! I love to code and solve problems :) </h1>
-<h3>Currently I'm in 4th year of B. Tech CSE from GLA University, Mathura</h3>
+<h1>Hello! My name is Anirudh Kumar Kushwaha and I'm from Varanasi! I love to code and break stuff :) </h1>
+
 
 <img alt="GIF" src="https://camo.githubusercontent.com/d87412330e179c453793251de9ef574f11d2c570510e949304f1a767ad891b6c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f456a4857706956494f475854356c396d2f67697068792e676966" />
 
