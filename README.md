@@ -12,12 +12,11 @@
 <h1>Hello! My name is Anirudh Kumar Kushwaha and I'm from Varanasi! I love to code and break stuff :) </h1>
 
 
-<img alt="GIF" src="https://camo.githubusercontent.com/d87412330e179c453793251de9ef574f11d2c570510e949304f1a767ad891b6c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f456a4857706956494f475854356c396d2f67697068792e676966" />
+
 
 **Wanna get in touch?**
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: Anything is possible;
-- 📫 How to reach me: mail@anirudh.one;
 
 
 ![AnirudhKK's github stats](https://github-readme-stats.vercel.app/api?username=anirudhkk&show_icons=true&hide_border=true)
